@@ -1,4 +1,4 @@
-# Projects
+# My projects
 These are my projects I did during the course and after it. <br>
 Проекти, які я зробив під час проходження курсу та після нього. <br>
 1. Restaraunt landing page <br>
